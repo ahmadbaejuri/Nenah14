@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @ahmadbaejuri
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning testnet and node
-- 📫 How to reach me ...
